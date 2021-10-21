@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<speiseplan locationId='1'>
+<tag timestamp='1634508000'>
+<item>
+<category>Essen 2</category>
+<title>Hähnchen Cordon Bleu mit Zitrone (1,4,7,12,Wz,Mi)</title>
+<description></description>
+<beilagen>Wahlbeilagen: Nudelsalat (1,7,9,Wz,So,Sen,Su), Pommes-Frites</beilagen>
+<preis1>2,38</preis1>
+<preis2>3,38</preis2>
+<preis3>4,76</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Ungarische Krautnudeln (1,Wz,So)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,29</preis1>
+<preis2>3,47</preis2>
+<preis3>4,58</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Reis mit mexikanischem Bohnengemüse (1,4,7,Wz,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,23</preis1>
+<preis2>3,47</preis2>
+<preis3>4,46</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Thunfisch, Käse und Ei (4,7,12,Fi,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/F.png?v=1&#039; class=&#039;infomax-food-icon F&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Heute ab 15.30 Uhr Pizza an unserer Cafebar</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme></piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1634594400'>
+<item>
+<category>Essen 4</category>
+<title>Lasagne Bolognese (1,4,Wz,Ei,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,48</preis1>
+<preis2>3,48</preis2>
+<preis3>4,96</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/R.png?v=1&#039; class=&#039;infomax-food-icon R&#039; width=&#039;60&#039; height=&#039;62&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Süßkartoffel-Curry mit Kichererbsen, Spinat, Basmatireis (7,Gf,So,Sel) und Soja-Korianderjoghurt(So)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,79</preis1>
+<preis2>3,79</preis2>
+<preis3>5,58</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/Gf.png?v=1&#039; class=&#039;infomax-food-icon Gf&#039; width=&#039;30&#039; height=&#039;30&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 1</category>
+<title>Hokifilet mit warmen Linsen-Reissalat (1,7,9,Wz,Fi,Man,So,Sen,Su)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>4,12</preis1>
+<preis2>5,12</preis2>
+<preis3>8,24</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/F.png?v=1&#039; class=&#039;infomax-food-icon F&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Käse und Ei (Ei,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Heute ab 15.30 Uhr Pizza an unserer Cafebar</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme></piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1634680800'>
+<item>
+<category>Essen 1</category>
+<title>Schweineschnitzel &quot;Wiener Art&quot; mit Zitrone (Wz) und Pommes frites</title>
+<description></description>
+<beilagen>Wahlbeilagen: Pommes-Frites</beilagen>
+<preis1>2,95</preis1>
+<preis2>3,95</preis2>
+<preis3>5,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Polenta mit Paprika, Zucchini und Tomaten (10,Wz,So)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,69</preis1>
+<preis2>3,69</preis2>
+<preis3>5,38</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Putenschinken, Mozzarella und Ei (4,7,12,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Ab 15:30 Uhr verschiedene Pizzen an unserer Cafebar.</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme></piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1634767200'>
+<item>
+<category>Essen 2</category>
+<title>Fränkischer Sauerbraten (1,7,9,Wz,Mi,Sel,Su)</title>
+<description></description>
+<beilagen>Wahlbeilagen: Kloß (7,Su), Blaukraut (1,7,9,Su)</beilagen>
+<preis1>3,02</preis1>
+<preis2>4,02</preis2>
+<preis3>6,04</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/R.png?v=1&#039; class=&#039;infomax-food-icon R&#039; width=&#039;60&#039; height=&#039;62&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Pasta mit Gemüse und Pesto (1,Wz,Man,Sel) oder  Pasta mit Paprikagemüse (Wz,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,09</preis1>
+<preis2>3,47</preis2>
+<preis3>4,18</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Schinken, Käse und Ei (4,7,12,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Heute ab 15.30 Uhr Pizza an unserer Cafebar</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1634853600'>
+<item>
+<category>Essen 1</category>
+<title>MSC - Alaska-Seelachsfilet gebacken mit Zitrone (Wz,Fi,Ses), Eier - Quark - Dip (5,Wz,Ei,So,Mi,Sen) und gebackenen Kartoffeln</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,98</preis1>
+<preis2>3,98</preis2>
+<preis3>5,96</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Thai-Gemüse-Nudelpfanne mit Erdnüssen und Kokossoße (4,Wz,Er,So,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,29</preis1>
+<preis2>3,47</preis2>
+<preis3>4,58</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Süßkartoffel-Curry mit Kichererbsen, Spinat und Basmatireis (7,Gf,So,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,00</preis1>
+<preis2>3,00</preis2>
+<preis3>4,00</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/Gf.png?v=1&#039; class=&#039;infomax-food-icon Gf&#039; width=&#039;30&#039; height=&#039;30&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Hähnchenbrust und Hirtenkäse(4,7,12,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Pizza Caprese (1,4,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 4</category>
+<title>Pizza Salami-Paprika (1,4,7,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,99</preis1>
+<preis2>4,99</preis2>
+<preis3>7,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1635112800'>
+<item>
+<category>Essen 4</category>
+<title>Köttbullar mit (Wz,Ei,Mi) Kartoffelpüree (7,12,Mi) Rahmsoße (1,Wz,Mi,Sel,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,48</preis1>
+<preis2>3,48</preis2>
+<preis3>4,96</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/R.png?v=1&#039; class=&#039;infomax-food-icon R&#039; width=&#039;60&#039; height=&#039;62&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Wildreispfanne mit frischen Egerlingen und Paprika (veg)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,79</preis1>
+<preis2>3,79</preis2>
+<preis3>5,58</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Thunfisch, Käse und Ei (4,7,12,Fi,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme></piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Gemüsepizza (1,4,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 4</category>
+<title>Pizza Diabolo (1,4,7,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,99</preis1>
+<preis2>4,99</preis2>
+<preis3>7,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1635199200'>
+<item>
+<category>Essen 1</category>
+<title>Schweinegeschnetzeltes &quot;Züricher Art&quot; (1,4,Wz,Mi) mit Röstiecken</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>-</preis1>
+<preis2>-</preis2>
+<preis3>-</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 3</category>
+<title>Quinoa Erbsen Frikadelle (Sel) Senf Dip Vegan (Sen)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>1,97</preis1>
+<preis2>2,97</preis2>
+<preis3>3,94</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 7</category>
+<title>Kürbispfanne mit gebratenem Seelachs und Basmatireis (Wz,Fi,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,85</preis1>
+<preis2>4,85</preis2>
+<preis3>7,70</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/F.png?v=1&#039; class=&#039;infomax-food-icon F&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Schinken, Käse und Ei (Wz,Ei,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme></piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Pizza mit Artischocken und Auberginen (1,4,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 4</category>
+<title>Pizza mit Thunfisch und Zwiebeln (1,4,Wz,Fi,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,99</preis1>
+<preis2>4,99</preis2>
+<preis3>7,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/F.png?v=1&#039; class=&#039;infomax-food-icon F&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1635285600'>
+<item>
+<category>Essen 1</category>
+<title>Cordon Bleu vom Schwein mit Zitrone (4,7,Wz,Mi) Kartoffelsalat (1,7,9,Sen,Su)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,82</preis1>
+<preis2>3,82</preis2>
+<preis3>5,64</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Zucchini-Paprika-Auflauf mit Linsen (Ei,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>-</preis1>
+<preis2>-</preis2>
+<preis3>-</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 7</category>
+<title>Steckrüben-Bohnen-Paprika-Curry mit Chilikartoffeln (7,Wz,So)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,94</preis1>
+<preis2>3,94</preis2>
+<preis3>5,88</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Putenschinken, Mozzarella  und Ei (4,7,12,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Pizza mit Paprika und Champignons(1,4,7,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 4</category>
+<title>Pizza Kebab Art (1,4,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,99</preis1>
+<preis2>4,99</preis2>
+<preis3>7,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1635372000'>
+<item>
+<category>Essen 1</category>
+<title>Erbseneintopf mit Wiener Würstchen (4,7,12,Gf,Sel)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>-</preis1>
+<preis2>-</preis2>
+<preis3>-</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/Gf.png?v=1&#039; class=&#039;infomax-food-icon Gf&#039; width=&#039;30&#039; height=&#039;30&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Gemüseschnitzel mit (Wz) Couscoussalat (1,7,9,Wz,So,Sel,Su) und Chili-dip (So,Sen)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,94</preis1>
+<preis2>3,94</preis2>
+<preis3>5,88</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/CO2.png?v=1&#039; class=&#039;infomax-food-icon CO2&#039; width=&#039;30&#039; height=&#039;64&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 7</category>
+<title>Hirschragout mit Birnen, dazu Rosenkohlgemüse und Kloß (7,9,13,Wz,Mi,Su)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,98</preis1>
+<preis2>4,98</preis2>
+<preis3>7,96</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/W.png?v=1&#039; class=&#039;infomax-food-icon W&#039; width=&#039;60&#039; height=&#039;62&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Schinken, Käse und Ei (4,7,12,Mi,Ei)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 3</category>
+<title>Pizza Vier Käse (1,4,Wz,Ei,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,33</preis1>
+<preis2>4,33</preis2>
+<preis3>6,66</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 4</category>
+<title>Pizza Speziale (1,4,7,12,Wz,So,Mi,Ge)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,99</preis1>
+<preis2>4,99</preis2>
+<preis3>7,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/S.png?v=1&#039; class=&#039;infomax-food-icon S&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+<tag timestamp='1635458400'>
+<item>
+<category>Essen 1</category>
+<title>MSC - Alaska-Seelachsfilet im Kartoffelmantel mit Zitrone (Wz,Fi) und Spinatkartoffeln (1,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,98</preis1>
+<preis2>3,98</preis2>
+<preis3>5,96</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MSC.png?v=1&#039; class=&#039;infomax-food-icon MSC&#039; width=&#039;108&#039; height=&#039;48&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 4</category>
+<title>Grießbrei mit Zimt und Zucker (Wz,Mi) und Kirschkompott</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>1,75</preis1>
+<preis2>3,47</preis2>
+<preis3>3,50</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/V.png?v=1&#039; class=&#039;infomax-food-icon V&#039; width=&#039;68&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Essen 5</category>
+<title>Tagliatelle mit Paprika-Sojasahne-Soße und gehackten Walnüssen (Wz,So,Wa)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>2,49</preis1>
+<preis2>3,49</preis2>
+<preis3>4,98</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/veg.png?v=1&#039; class=&#039;infomax-food-icon veg&#039; width=&#039;14&#039; height=&#039;14&#039; alt=&#039;food-icon&#039;&gt;&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/MV.png?v=1&#039; class=&#039;infomax-food-icon MV&#039; width=&#039;144&#039; height=&#039;46&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+<item>
+<category>Aktionsessen 2</category>
+<title>Bunte Salatbowl mit Hähnchenbrust und Hirtenkäse(4,7,12,Mi)</title>
+<description></description>
+<beilagen></beilagen>
+<preis1>3,45</preis1>
+<preis2>4,45</preis2>
+<preis3>6,90</preis3>
+<einheit></einheit>
+<piktogramme>&lt;img src=&#039;https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1&#039; class=&#039;infomax-food-icon G&#039; width=&#039;60&#039; height=&#039;60&#039; alt=&#039;food-icon&#039;&gt;</piktogramme>
+<foto></foto>
+</item>
+</tag>
+</speiseplan>

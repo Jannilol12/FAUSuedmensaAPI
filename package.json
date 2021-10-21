@@ -1,0 +1,21 @@
+{
+  "name": "mensa.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "concat": "^1.0.3",
+    "concat-stream": "^2.0.0",
+    "eyes": "^0.1.8",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
