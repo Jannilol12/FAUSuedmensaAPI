@@ -60,7 +60,11 @@ var parser = new xml2js.Parser();
 
 getParsedXMLFromURL('https://www.max-manager.de/daten-extern//sw-erlangen-nuernberg/xml/mensa-sued.xml', function(result){
     var menuList = getMenuList(result);
-    var date = getDateFromMenu(menuList[0]);
+    var date = getDate(menuList[0]);
+    var dishList = getDishList(menuList[0]);
+    var category = getCategory(dishList[0]);
+    console.log(date);
+    console.log(menuList[0].item);
 });
 
 function getParsedXMLFromURL(link, callback) {
@@ -84,8 +88,53 @@ function getMenuList(xml) {
     return xml.speiseplan.tag;
 }
 
-function getDateFromMenu(menu){
+function getDate(menu){
     var time = menu.$.timestamp;
     var date = new Date(time*1000);
-    return date.getDate()+"-"+date.getMonth()+"-"+date.getFullYear();
+    return (date.getDate()+"."+date.getMonth()+"."+date.getFullYear()).toString();
 }
+
+function getDishList(menu){
+    return menu.item;
+}
+
+function getCategory(dish){
+    return dish.category.toString();
+}
+
+function getTitle(dish){
+    return dish.title.toString();
+}
+
+function getDescription(dish){
+    return dish.description.toString();
+}
+
+function getSideDish(dish){
+    return dish.beilagen.toString();
+}
+
+function getPriceOne(dish){
+    return dish.preis1.toString();
+}
+
+function getPriceTwo(dish){
+    return dish.preis2.toString();
+}
+
+function getUnit(dish){
+    return dish.einheit.toString();
+}
+
+//TODO: return value -> piktogramme: [ "<img src='https://www.max-manager.de/daten-extern/sw-erlangen-nuernberg/icons/G.png?v=1' class='infomax-food-icon G' width='60' height='60' alt='food-icon'>" ]
+function getPictogram(dish){
+    return dish.piktogramme;
+}
+
+//TODO return value
+function getPhoto(dish){
+    return dish.foto;
+}
+
+
+
